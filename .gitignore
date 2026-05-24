@@ -1,0 +1,11 @@
+# 本地临时文件
+*.log
+*.tmp
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# 隐私
+*.env
